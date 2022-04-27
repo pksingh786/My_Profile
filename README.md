@@ -2,6 +2,11 @@
 
 # my profile
 hii there Prakash Singh🔖
+I have done my engineering from Lovely Professional University,Punjab.recently I have completed my engineering with aggregate CGPA of 7.41.
+
+# Tools & Technologies
+* C programming
+* C++ programming
 
 
 
